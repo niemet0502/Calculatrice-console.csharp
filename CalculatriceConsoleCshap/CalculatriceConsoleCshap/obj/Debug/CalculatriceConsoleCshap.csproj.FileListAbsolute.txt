@@ -5,3 +5,5 @@ C:\Users\mariu\Desktop\Cours C#\CalculatriceConsoleCshap\CalculatriceConsoleCsha
 C:\Users\mariu\Desktop\Cours C#\CalculatriceConsoleCshap\CalculatriceConsoleCshap\obj\Debug\CalculatriceConsoleCshap.csproj.CoreCompileInputs.cache
 C:\Users\mariu\Desktop\Cours C#\CalculatriceConsoleCshap\CalculatriceConsoleCshap\obj\Debug\CalculatriceConsoleCshap.exe
 C:\Users\mariu\Desktop\Cours C#\CalculatriceConsoleCshap\CalculatriceConsoleCshap\obj\Debug\CalculatriceConsoleCshap.pdb
+C:\Users\mariu\Desktop\Cours C#\CalculatriceConsoleCshap\CalculatriceConsoleCshap\obj\Debug\CalculatriceConsoleCshap.FrmFirst.resources
+C:\Users\mariu\Desktop\Cours C#\CalculatriceConsoleCshap\CalculatriceConsoleCshap\obj\Debug\CalculatriceConsoleCshap.csproj.GenerateResource.cache
